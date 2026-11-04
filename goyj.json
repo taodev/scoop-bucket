@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/taodev/goyj/releases/download/v0.1.0/goyj_0.1.0_windows_amd64.zip",
+            "bin": [
+                "goyj.exe"
+            ],
+            "hash": "1bfea3a9290c952c91fa29addd69e78c8e3ea60d8af6bd192a1a650039526004"
+        },
+        "arm64": {
+            "url": "https://github.com/taodev/goyj/releases/download/v0.1.0/goyj_0.1.0_windows_arm64.zip",
+            "bin": [
+                "goyj.exe"
+            ],
+            "hash": "297c8cc4d361508c91e15aee6fa06d727e7c1608a4930d7b2199fbb5f0d10719"
+        }
+    },
+    "homepage": "https://github.com/taodev/goyj",
+    "license": "MIT",
+    "description": "在 YAML 与 JSON 之间互相转换的命令行工具"
+}
